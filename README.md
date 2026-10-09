@@ -1,4 +1,4 @@
-# BrightLearn-SQL-Foundations-Exercise-01
+# BrightLearn-SQL-Foundations-Exercises
 Learning Objectives:
 Retrieve data with SELECT — both all columns (SELECT *) and specific columns.
 
