@@ -11,3 +11,10 @@ Limit the number of rows returned with LIMIT.
 Filter rows with WHERE, combining conditions using AND, OR, NOT, and IN.
 
 Predict the exact output of a query before running it.
+Use aggregate functions: COUNT, SUM, AVG, MIN, MAX.
+
+Group results with GROUP BY and filter groups with HAVING.
+
+Apply common SQL operators: DISTINCT, BETWEEN, IN, NOT, AND, OR.
+
+Sort and limit results with ORDER BY and LIMIT.
